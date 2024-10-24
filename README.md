@@ -32,18 +32,19 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/a_b_h_i_s_h_e_k010" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/abhisheknangare2" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="Hackerrank" height="40" width="40" />
   </a>
   <a href="https://www.leetcode.com/abhi9001/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/abhisheknangare96k" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="GeeksForGeeks" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks" height="40" width="40" />
   </a>
 </p>
+
 
 <hr />
 
