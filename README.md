@@ -34,8 +34,8 @@
   <a href="https://instagram.com/a_b_h_i_s_h_e_k010" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/abhisheknangare2" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="Hackerrank" height="40" width="40" />
+<a href="https://www.hackerrank.com/abhisheknangare2" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" height="40" width="40" />
   </a>
   <a href="https://www.leetcode.com/abhi9001/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
