@@ -74,6 +74,27 @@
 
 <hr />
 
+<h2>📚 Notable Projects</h2>
+<ul>
+  <li>
+    <strong>Anonymous Feedback Hub (June 2023 - July 2023):</strong> Developed a web app for anonymous feedback collection in employment settings using Next.js. Secured the app with OAuth2 via ‘next-auth‘ and used MongoDB for robust data management. Optimized form handling using ‘react-hook-form‘ and ‘zod‘ for validation.
+    <br><strong>Technologies:</strong> Next.js, OAuth2, MongoDB, Tailwind CSS, React, Zod, Axios
+    <br><a href="https://feedback-next-js.vercel.app/dashboard">Live Demo</a> — <a href="https://github.com/Abhi96k/TrueFeedBack_NextJs/tree/main">Source</a>
+  </li>
+  <li>
+    <strong>CareTech AI (February 2024 - March 2024):</strong> Developed machine learning models to predict five diseases, achieving over 95% accuracy. Processed datasets with over 300,000 rows and compared multiple neural network architectures.
+    <br><strong>Technologies:</strong> TensorFlow, NumPy, scikit-learn, Pandas, Streamlit
+    <br><a href="https://ai-health-assistance-alert.streamlit.app/">Live Demo</a> — <a href="https://github.com/Abhi96k/AI-Based-Health-assistant-.git">Source</a>
+  </li>
+  <li>
+    <strong>StudyFlicks (July 2024 - August 2024):</strong> Developed a video learning platform with optimized search functionality, achieving a 60% improvement in efficiency. Implemented real-time video synchronization and user authentication.
+    <br><strong>Technologies:</strong> React, Node.js, MongoDB, Express, JWT
+    <br><a href="https://github.com/Abhi96k/StudyFlicks.git">Source</a>
+  </li>
+</ul>
+
+<hr />
+
 <h2>🛠️ Languages and Tools</h2>
 <p align="left">
   <a href="https://appwrite.io" target="_blank">
