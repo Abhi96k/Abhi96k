@@ -196,8 +196,31 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
+  <!-- GitHub Profile Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi96k&show_icons=true&hide_border=true&theme=dracula&locale=en" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi96k&hide_border=true&theme=dracula" alt="GitHub Streak" />
+  
+  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi96k&show_icons=true&hide_border=true&layout=compact&theme=dracula" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhi96k&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+  <!-- GitHub Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi96k&theme=dracula" alt="GitHub Profile Details" />
+
+  <!-- Commits per Week -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi96k&theme=dracula&utcOffset=8" alt="Commits per Week" />
+
+  <!-- Repository Contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi96k&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi96k&theme=dracula" alt="Most Commit Language" />
+
+  <!-- Starred Repositories -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhi96k&theme=dracula" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/total-commit?username=abhi96k&theme=dracula" alt="Total Commits" />
 </div>
+
 
