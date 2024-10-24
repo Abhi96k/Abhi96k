@@ -205,8 +205,7 @@
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi96k&show_icons=true&hide_border=true&layout=compact&theme=dracula" alt="Top Languages" />
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=abhi96k&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
 
   <!-- GitHub Metrics -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi96k&theme=dracula" alt="GitHub Profile Details" />
