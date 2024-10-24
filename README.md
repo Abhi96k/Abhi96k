@@ -47,6 +47,33 @@
 
 <hr />
 
+<h2>🛠️ Technical Skills</h2>
+<ul>
+  <li><strong>Programming Languages:</strong> C++, SQL, JavaScript</li>
+  <li><strong>Machine Learning & AI:</strong> TensorFlow, Keras, Scikit-learn, Pandas, NumPy, PyTorch, Matplotlib, Seaborn</li>
+  <li><strong>Development:</strong> Node.js, Express.js, React.js, Docker, AWS, GitHub</li>
+  <li><strong>Database Management:</strong> MongoDB, MySQL</li>
+</ul>
+
+<hr />
+
+<h2>📜 Certifications</h2>
+<ul>
+  <li>AWS Certified Solutions Architect – Associate (January 18, 2024 – January 18, 2027)</li>
+  <li>AWS Certified Cloud Practitioner (January 15, 2024 – January 15, 2027)</li>
+</ul>
+
+<hr />
+
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>LeetCode: Global Rank – 99,831 (500+ problems solved) – Profile: <a href="https://leetcode.com/abhi9001/">abhi9001</a></li>
+  <li>GeeksForGeeks: 468 problems solved (Institute Rank - 127) – Profile: <a href="https://auth.geeksforgeeks.org/user/abhisheknangare96k">abhisheknangare96k</a></li>
+  <li>Coding Platform: 300+ problems solved – Profile: <a href="https://www.naukri.com/code360/profile/Abhi9001">Abhi9001</a></li>
+</ul>
+
+<hr />
+
 <h2>🛠️ Languages and Tools</h2>
 <p align="left">
   <a href="https://appwrite.io" target="_blank">
