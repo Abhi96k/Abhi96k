@@ -220,7 +220,7 @@
 
   <!-- Starred Repositories -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhi96k&theme=dracula" alt="GitHub Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/total-commit?username=abhi96k&theme=dracula" alt="Total Commits" />
+ 
 </div>
 
 
