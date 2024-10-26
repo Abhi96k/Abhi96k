@@ -1,3 +1,6 @@
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Passionate Backend Developer and Machine Learning Enthusiast</h3>
 
@@ -223,4 +226,14 @@
  
 </div>
 
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" /> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=airbornharsh&theme=holi"/>
+<br />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/> -->
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=airbornharsh&layout=compact&theme=holi&range=all_time"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
+</p>
 
