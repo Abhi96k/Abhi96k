@@ -209,7 +209,7 @@
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi96k&show_icons=true&hide_border=true&layout=compact&theme=dracula" alt="Top Languages" />
   
-
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <!-- GitHub Metrics -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi96k&theme=dracula" alt="GitHub Profile Details" />
