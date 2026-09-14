@@ -1,11 +1,16 @@
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Passionate Backend Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer @ Tellius | Backend Developer & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi96k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/abhishek-nangare-3b6ab1241/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhisheknangare96k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
@@ -14,216 +19,94 @@
   </a>
 </div>
 
-<hr />
+---
 
-<h2>💻 About Me</h2>
-<ul>
-  <li>🔭 <strong>I’m currently working on:</strong> Machine Learning and Deep Learning projects.</li>
-  <li>🌱 <strong>I’m currently learning:</strong> Machine Learning and the MERN Stack.</li>
-  <li>👯 <strong>I’m looking to collaborate on:</strong> Backend development with MERN.</li>
-  <li>💬 <strong>Ask me about:</strong> Backend development and Machine Learning.</li>
-  <li>📫 <strong>How to reach me:</strong> abhisheknangare96k@gmail.com.</li>
-  <li>📝 <strong>Check out my articles:</strong> <a href="https://www.linkedin.com/in/abhishek-nangare-3b6ab1241/">LinkedIn</a>.</li>
-  <li>👨‍💻 <strong>View all my projects here:</strong> <a href="https://github.com/Abhi96k">GitHub Profile</a>.</li>
-</ul>
+## 👨‍💻 About Me
 
-<hr />
+- 💼 **Software Engineer** at **Tellius** with **2 years** of experience
+- 🔭 Currently working on **Machine Learning** and **Deep Learning** projects
+- 🌱 Currently learning **Machine Learning** and the **MERN Stack**
+- 👯 Looking to collaborate on **Backend development with MERN**
+- 💬 Ask me about **Backend Development** & **Machine Learning**
+- 📫 Reach me at **abhisheknangare96k@gmail.com**
+- 📝 Articles & posts: [LinkedIn](https://www.linkedin.com/in/abhishek-nangare-3b6ab1241/)
+- 👀 All projects: [GitHub Profile](https://github.com/Abhi96k)
 
-<h2>🌐 Connect With Me</h2>
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Machine Learning & AI:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web & Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Database & DevOps:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Valid Through |
+|---|---|
+| AWS Certified Solutions Architect – Associate | Jan 18, 2024 – Jan 18, 2027 |
+| AWS Certified Cloud Practitioner | Jan 15, 2024 – Jan 15, 2027 |
+
+---
+
+## 🏆 Achievements
+
+- 🟠 **LeetCode:** Global Rank 99,831 · 500+ problems solved → [abhi9001](https://leetcode.com/abhi9001/)
+- 🟢 **GeeksforGeeks:** 468 problems solved · Institute Rank 127 → [abhisheknangare96k](https://auth.geeksforgeeks.org/user/abhisheknangare96k)
+- 🔵 **Coding Ninjas (Code360):** 300+ problems solved → [Abhi9001](https://www.naukri.com/code360/profile/Abhi9001)
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-nangare-3b6ab1241/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/a_b_h_i_s_h_e_k010" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
-<a href="https://www.hackerrank.com/abhisheknangare2" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" height="40" width="40" />
+  <a href="https://www.hackerrank.com/abhisheknangare2" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40" width="40" />
   </a>
   <a href="https://www.leetcode.com/abhi9001/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/abhisheknangare96k" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks" height="40" width="40" />
   </a>
 </p>
 
+---
 
-<hr />
+## 📊 GitHub Stats
 
-<h2>🛠️ Technical Skills</h2>
-<ul>
-  <li><strong>Programming Languages:</strong> C++, SQL, JavaScript</li>
-  <li><strong>Machine Learning & AI:</strong> TensorFlow, Keras, Scikit-learn, Pandas, NumPy, PyTorch, Matplotlib, Seaborn</li>
-  <li><strong>Development:</strong> Node.js, Express.js, React.js, Docker, AWS, GitHub</li>
-  <li><strong>Database Management:</strong> MongoDB, MySQL</li>
-</ul>
-
-<hr />
-
-<h2>📜 Certifications</h2>
-<ul>
-  <li>AWS Certified Solutions Architect – Associate (January 18, 2024 – January 18, 2027)</li>
-  <li>AWS Certified Cloud Practitioner (January 15, 2024 – January 15, 2027)</li>
-</ul>
-
-<hr />
-
-<h2>🏆 Achievements</h2>
-<ul>
-  <li>LeetCode: Global Rank – 99,831 (500+ problems solved) – Profile: <a href="https://leetcode.com/abhi9001/">abhi9001</a></li>
-  <li>GeeksForGeeks: 468 problems solved (Institute Rank - 127) – Profile: <a href="https://auth.geeksforgeeks.org/user/abhisheknangare96k">abhisheknangare96k</a></li>
-  <li>Coding Platform: 300+ problems solved – Profile: <a href="https://www.naukri.com/code360/profile/Abhi9001">Abhi9001</a></li>
-</ul>
-
-<hr />
-
-<h2>📚 Notable Projects</h2>
-<ul>
-  <li>
-    <strong>Anonymous Feedback Hub (June 2023 - July 2023):</strong> Developed a web app for anonymous feedback collection in employment settings using Next.js. Secured the app with OAuth2 via ‘next-auth‘ and used MongoDB for robust data management. Optimized form handling using ‘react-hook-form‘ and ‘zod‘ for validation.
-    <br><strong>Technologies:</strong> Next.js, OAuth2, MongoDB, Tailwind CSS, React, Zod, Axios
-    <br><a href="https://feedback-next-js.vercel.app/dashboard">Live Demo</a> — <a href="https://github.com/Abhi96k/TrueFeedBack_NextJs/tree/main">Source</a>
-  </li>
-  <li>
-    <strong>CareTech AI (February 2024 - March 2024):</strong> Developed machine learning models to predict five diseases, achieving over 95% accuracy. Processed datasets with over 300,000 rows and compared multiple neural network architectures.
-    <br><strong>Technologies:</strong> TensorFlow, NumPy, scikit-learn, Pandas, Streamlit
-    <br><a href="https://ai-health-assistance-alert.streamlit.app/">Live Demo</a> — <a href="https://github.com/Abhi96k/AI-Based-Health-assistant-.git">Source</a>
-  </li>
-  <li>
-    <strong>StudyFlicks (July 2024 - August 2024):</strong> Developed a video learning platform with optimized search functionality, achieving a 60% improvement in efficiency. Implemented real-time video synchronization and user authentication.
-    <br><strong>Technologies:</strong> React, Node.js, MongoDB, Express, JWT
-    <br><a href="https://github.com/Abhi96k/StudyFlicks.git">Source</a>
-  </li>
-</ul>
-
-<hr />
-
-<h2>🛠️ Languages and Tools</h2>
-<p align="left">
-  <a href="https://appwrite.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
-
-<hr />
-
-<h2>📊 GitHub Stats</h2>
 <div align="center">
-  <!-- GitHub Profile Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi96k&show_icons=true&hide_border=true&theme=dracula&locale=en" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi96k&hide_border=true&theme=dracula" alt="GitHub Streak" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi96k&show_icons=true&hide_border=true&layout=compact&theme=dracula" alt="Top Languages" />
-  
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-  <!-- GitHub Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi96k&theme=dracula" alt="GitHub Profile Details" />
-
-  <!-- Commits per Week -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi96k&theme=dracula&utcOffset=8" alt="Commits per Week" />
-
-  <!-- Repository Contributions -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi96k&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi96k&theme=dracula" alt="Most Commit Language" />
-
-  <!-- Starred Repositories -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhi96k&theme=dracula" alt="GitHub Stats Summary" />
- 
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi96k&show_icons=true&hide_border=true&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi96k&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhi96k&theme=dracula&utcOffset=8" alt="Commits per Week" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi96k&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi96k&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhi96k&theme=dracula" alt="Stats Summary" />
+</div>
