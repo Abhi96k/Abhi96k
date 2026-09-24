@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhishek%20Nangare&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Backend%20%26%20Full%20Stack&descAlignY=58&descSize=16" alt="Abhishek Nangare" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=header" width="100%" alt="header" />
+
+<h1>Hi 👋, I'm Abhishek Nangare</h1>
+<h3>Software Development Engineer · Backend &amp; Full Stack @ Tellius</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2C9CDB&center=true&vCenter=true&width=620&lines=Building+scalable+backend+services+%26+async+pipelines;Node.js+%C2%B7+Java+%2F+Spring+Boot+%C2%B7+RabbitMQ+%C2%B7+React+%2F+TypeScript;AWS+Certified+Solutions+Architect+%E2%80%93+Associate" alt="Typing SVG" /></a>
 
@@ -96,14 +99,16 @@ I'm a **Software Development Engineer (Backend & Full Stack)** at **[Tellius](ht
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Abhi96k/cloud_monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi96k&repo=cloud_monitor&theme=github_dark&hide_border=true" alt="cloud_monitor" /></a>
-  <a href="https://github.com/Abhi96k/WebRtc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi96k&repo=WebRtc&theme=github_dark&hide_border=true" alt="WebRtc" /></a>
-  <a href="https://github.com/Abhi96k/Prometheus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi96k&repo=Prometheus&theme=github_dark&hide_border=true" alt="Prometheus" /></a>
-  <a href="https://github.com/Abhi96k/redis_DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi96k&repo=redis_DB&theme=github_dark&hide_border=true" alt="redis_DB" /></a>
-  <a href="https://github.com/Abhi96k/mern-advanced-auth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi96k&repo=mern-advanced-auth&theme=github_dark&hide_border=true" alt="mern-advanced-auth" /></a>
-  <a href="https://github.com/Abhi96k/nextjs-app-deploy-with-docker-ec2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi96k&repo=nextjs-app-deploy-with-docker-ec2&theme=github_dark&hide_border=true" alt="nextjs-app-deploy-with-docker-ec2" /></a>
-</div>
+| Project | Language |
+|---|---|
+| 📦 [**cloud_monitor**](https://github.com/Abhi96k/cloud_monitor) | Python |
+| 📦 [**WebRtc**](https://github.com/Abhi96k/WebRtc) | TypeScript |
+| 📦 [**Prometheus**](https://github.com/Abhi96k/Prometheus) | TypeScript |
+| 📦 [**redis_DB**](https://github.com/Abhi96k/redis_DB) | TypeScript |
+| 📦 [**mern-advanced-auth**](https://github.com/Abhi96k/mern-advanced-auth) | JavaScript |
+| 📦 [**nextjs-app-deploy-with-docker-ec2**](https://github.com/Abhi96k/nextjs-app-deploy-with-docker-ec2) | JavaScript |
+| 📦 [**nodejs-app-mern-ec2-docker**](https://github.com/Abhi96k/nodejs-app-mern-ec2-docker) | JavaScript |
+| 📦 [**s3_web_store_nextjs**](https://github.com/Abhi96k/s3_web_store_nextjs) | JavaScript |
 
 ---
 
@@ -130,8 +135,11 @@ I'm a **Software Development Engineer (Backend & Full Stack)** at **[Tellius](ht
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi96k&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi96k&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi96k&theme=github_dark" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi96k&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi96k&theme=github_dark" alt="Most Commit Language" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abhi96k&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
