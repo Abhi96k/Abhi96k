@@ -30,7 +30,7 @@ I'm a **Software Development Engineer (Backend & Full Stack)** at **[Tellius](ht
 - 🧪 Automate UI & API regression testing with **Cypress** wired into **CI/CD**
 - 🌱 Currently deepening **Java / Spring Boot**, **Spring Security (JWT, OAuth2)**, **Kafka** and **System Design**
 - 🎓 B.Tech in Computer Science (AI & ML) — **VIT**, CGPA 8.63
-- 📫 Reach me at **abhisheknangare96k@gmail.com** — open to **SDE backend / full-stack** opportunities
+
 
 ---
 
